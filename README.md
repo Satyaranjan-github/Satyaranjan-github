@@ -9,6 +9,10 @@
 
  - 🌱 Currently learning Advance **MERN Stack With TypeScript**
  - 🔍 Looking for chances to work together on open-source projects.
+   
+ ## 🌐 Socials:
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:gudu44791@gmail.com)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyaranjan-sahoo-596250287/)
 
  - # 💻 Tech Stack:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,6 +40,3 @@
  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
  ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
  ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
-
-### Profile Visit Count
- <img src="https://profile-counter.glitch.me/Satyaranjan-github /count.svg" alt=""/>
