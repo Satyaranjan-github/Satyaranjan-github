@@ -2,7 +2,7 @@
 <br>
  
  <div align="center" width="100%">
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=4996&pause=1000&color=F7F7F7&background=730909&vCenter=true&multiline=true&width=435&lines=Hey+%2C+I'm+Satya+)](https://git.io/typing-svg)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=F7F7F7&background=940505&center=true&vCenter=true&width=435&lines=Hey+%2C+I'm+Satya" alt="Typing SVG" />
  </div>
  
  <br>
