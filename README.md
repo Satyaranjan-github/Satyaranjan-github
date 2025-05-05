@@ -7,7 +7,7 @@
  
  <br>
 
- - 🌱 Currently learning Advance **MERN Stack With TypeScript And AWS Deployment**
+ - 🌱 Currently learning Advance **NextJS, TypeScript and Deployment**
  - 🔍 Looking for chances to work together on open-source projects.
    
  ## 🌐 Socials:
