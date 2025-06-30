@@ -8,7 +8,7 @@
  <br>
 
  - 🌱 Currently learning Advance **NextJS, TypeScript and Deployment**
- - 🔍 Looking for chances to work together on open-source projects.
+ - 🔍 Looking for chances to work together on open-source projects. 
    
  ## 🌐 Socials:
  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:gudu44791@gmail.com)
