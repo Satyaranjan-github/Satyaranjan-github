@@ -1,14 +1,11 @@
-> 👨‍💻 **Hi, I’m Satyaranjan**  
-> I build, I break, I copy, I debug...  
-> and somehow, it all works in the end 😅
+<div align="center">
+  
+# Hi there! 👋 I'm **Satyaranjan**
 
----
+</div>
 
-💡 **Tech Stack's I Use for My Profession:**  
-`React.js` • `Node.js` • `MongoDB` • `Express.js` • `TypeScript` • `Tailwind CSS` • `Next.js` • `TypeScript` • `......`
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=I+build%2C+I+break%2C+I+copy%2C+I+debug...;And+somehow%2C+it+all+works+in+the+end+%F0%9F%98%85;Full+Stack+Developer+%F0%9F%9A%80;Always+learning+new+technologies+%F0%9F%8C%B1)
 
-⚙️ **Tools I Use for My Profession:**  
-`VS Code` • `Git & GitHub` • `Postman` • `ChatGpt` • `Claude.Ai` • `.....`
-
-🌱 **Currently Exploring:**  
-`Advanced Version of Tech Stacks ...`
+</div>
